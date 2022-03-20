@@ -1,2 +1,2 @@
 ﻿# Bulbasaur_G
- Codes in TU/e
+ Codes example in TU/e
